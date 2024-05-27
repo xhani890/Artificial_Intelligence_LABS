@@ -1,4 +1,4 @@
-# Artificial_Intelligence_LABS:brain:
+# Artificial_Intelligence_LABS :brain:
 
 Welcome to the AI_LABs repository, where artificial intelligence is not just studied but brought to life through a series of interactive Jupyter notebooks. Each `.ipynb` file is a meticulously crafted lab session that represents a piece of the AI puzzle, from the basics to the most complex algorithms.
 
